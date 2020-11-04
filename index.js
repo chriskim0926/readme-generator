@@ -128,7 +128,7 @@ inquirer.prompt([
   ]);
 
 const generateReadme = (answers) =>
-`'testing this \n testin ${answers.description}';`;
+`## testing this \n testin ${answers.tableOfContent}`;
 
 promptUser()
   .then((answers) => writeFileAsync('readme.md', generateReadme(answers)))
