@@ -81,14 +81,13 @@ const promptUser = () =>
 inquirer.prompt([
     {
         type: 'input',
-        name: 'description',
-        message: 'What is your description of this application?'
+        name: 'title',
+        message: 'What is the title of this application?'
     },
     {
         type: 'input',
-        name: 'tableOfContent',
-        message: 'Please add Table of Content for the readme?'
-    
+        name: 'description',
+        message: 'What is your description of this application?'
     },
     {
         type: 'input',
@@ -128,7 +127,30 @@ inquirer.prompt([
   ]);
 
 const generateReadme = (answers) =>
-`## testing this \n testin ${answers.tableOfContent}`;
+`## Title of this Project: ${answers.title}\n \n
+## Table of Content\n
+1) Description \n
+2) Installation \n
+3) Usage \n
+4) License \n
+5) Contributor \n
+6) Questions \n \n
+
+## DESCRIPTION \n
+${answers.description}\n \n
+## INSTALLATION \n
+${answers.installation}\n \n
+## USAGE \n
+${answers.usage}\n \n
+## LICENSE \n
+${answers.license}\n \n
+## CONTRIBUTOR \n
+${answers.Contributing}\n \n
+## TEST \n
+${answers.test}\n \n
+## QUESTIONS \n
+${answers.question}\n \n
+`;
 
 promptUser()
   .then((answers) => writeFileAsync('readme.md', generateReadme(answers)))
