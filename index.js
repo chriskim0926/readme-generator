@@ -72,6 +72,18 @@ const generateReadme = (answers) =>
 2) [Installation](#INSTALLATION) \n
 3) [Usage](#USAGE) \n
 4) [License](#LICENSE) \n
+5) [Contributor](#CONTRIBUTOR) \n
+6) [Test](#TEST)
+7) [Questions](#Questions) \n \n
+
+## 1) DESCRIPTION \n
+${answers.description}\n \n
+## 2) INSTALLATION \n
+${answers.installation}\n \n
+## 3) USAGE \n
+${answers.usage}\n \n
+## 4) LICENSE \n
+${answers.License}\n 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
@@ -86,19 +98,7 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.\n
-5) [Contributor](#CONTRIBUTOR) \n
-6) [Test](#TEST)
-7) [Questions](#Questions) \n \n
-
-## 1) DESCRIPTION \n
-${answers.description}\n \n
-## 2) INSTALLATION \n
-${answers.installation}\n \n
-## 3) USAGE \n
-${answers.usage}\n \n
-## 4) LICENSE \n
-${answers.License}\n \n
+SOFTWARE.\n \n
 ## 5) CONTRIBUTOR \n
 ${answers.Contributing}\n \n
 ## 6) TEST \n

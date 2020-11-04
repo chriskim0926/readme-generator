@@ -1,4 +1,4 @@
-## Title of this Project: testing
+## Title of this Project: 
  
 
 ![licensing](https://img.shields.io/badge/License-MIT-yellow.svg)
@@ -37,17 +37,17 @@ SOFTWARE.
 
 ## 1) DESCRIPTION 
 
-sdfadsfasdfa
+
  
 
 ## 2) INSTALLATION 
 
-dsfasdfasdfa
+
  
 
 ## 3) USAGE 
 
-asdfasdfas
+
  
 
 ## 4) LICENSE 
@@ -57,19 +57,19 @@ MIT
 
 ## 5) CONTRIBUTOR 
 
-dfasd
+
  
 
 ## 6) TEST 
 
-dsfa
+
  
 
 ## 7) Questions 
 
-Link to my GitHub profile: https://github.com/chriskim0926 
+Link to my GitHub profile: https://github.com/ 
 
-For additional questions, please email chriskim0926
-dsfa
+For additional questions, please email 
+
  
 
