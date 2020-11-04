@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/chriskim0926/readme-generator#readme",
   "dependencies": {
+    "axios": "^0.21.0",
     "inquirer": "^7.3.3",
     "requirer": "0.0.4"
   }

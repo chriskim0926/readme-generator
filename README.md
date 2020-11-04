@@ -1,54 +1,75 @@
-## Title of this Project: Readme Generator
+## Title of this Project: testing
  
 
+![licensing](https://img.shields.io/badge/License-MIT-yellow.svg)
 ## Table of Content
 
-1) Description 
+1) [Description](#DESCRIPTION) 
 
-2) Installation 
+2) [Installation](#INSTALLATION) 
 
-3) Usage 
+3) [Usage](#USAGE) 
 
-4) License 
+4) [License](#LICENSE) 
 
-5) Contributor 
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
-6) Questions 
+5) [Contributor](#CONTRIBUTOR) 
+
+6) [Test](#TEST)
+7) [Questions](#Questions) 
  
 
 
-## DESCRIPTION 
+## 1) DESCRIPTION 
 
-This is to create automatically readme from terminal
+sdfadsfasdfa
  
 
-## INSTALLATION 
+## 2) INSTALLATION 
 
-no installation information
+dsfasdfasdfa
  
 
-## USAGE 
+## 3) USAGE 
 
-no useage information
+asdfasdfas
  
 
-## LICENSE 
+## 4) LICENSE 
 
-undefined
+MIT
  
 
-## CONTRIBUTOR 
+## 5) CONTRIBUTOR 
 
-no contributor
+dfasd
  
 
-## TEST 
+## 6) TEST 
 
-no test
+dsfa
  
 
-## QUESTIONS 
+## 7) Questions 
 
-no testing for the applicaiton
+Link to my GitHub profile: https://github.com/chriskim0926 
+
+For additional questions, please email chriskim0926
+dsfa
  
 
