@@ -1,4 +1,4 @@
-## Title of this Project: fasdfasd
+## Title of this Project: readme generator
  
 
 ![licensing](https://img.shields.io/badge/License-MIT-yellow.svg)
@@ -21,17 +21,17 @@
 
 ## 1) DESCRIPTION 
 
-fasdf
+dymatically generate readme page from terminal
  
 
 ## 2) INSTALLATION 
 
-asd
+npm inquirer
  
 
 ## 3) USAGE 
 
-fasd
+user can use this application to create readme page from terminal
  
 
 ## 4) LICENSE 
@@ -57,19 +57,19 @@ SOFTWARE.
 
 ## 5) CONTRIBUTOR 
 
-df
+chris kim
  
 
 ## 6) TEST 
 
-asdf
+no test was added
  
 
 ## 7) Questions 
 
-Link to my GitHub profile: https://github.com/dfadsfasdfasd 
+Link to my GitHub profile: https://github.com/chriskim0926 
 
-For additional questions, please email dfadsfasdfasd
-asdf
+For additional questions, please email chriskim0926
+no test was added
  
 

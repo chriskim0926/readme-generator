@@ -105,7 +105,7 @@ ${answers.Contributing}\n \n
 ${answers.test}\n \n
 ## 7) Questions \n
 Link to my GitHub profile: https://github.com/${answers.github} \n
-For additional questions, please email ${answers.github}
+For additional questions, please email ${answers.email}
 ${answers.test}\n \n
 `;
 
@@ -117,7 +117,7 @@ const init = async () => {
   
       const readme = generateReadme(answers);
   
-      await writeFileAsync('readme.md', readme);
+      await writeFileAsync('sample_readme.md', readme);
   
       console.log('Successfully wrote to readme.md');
     } catch (err) {
